@@ -1,5 +1,5 @@
-import Share from "./Share"
+import Order from "./Order"
 
 export default function() {
-  return <Share />
+  return <Order />
 }
