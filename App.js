@@ -1,5 +1,5 @@
-import Login from "./Login"
+import Share from "./Share"
 
 export default function() {
-  return <Login />
+  return <Share />
 }
